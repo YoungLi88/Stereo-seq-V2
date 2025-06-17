@@ -1,0 +1,1 @@
+/home/liuyi/miniconda3/envs/rmatsplot/bin/rmats2sashimiplot --b1 /storage/liuyi/08.stereo_v2/HER2_breast/bam/C03637A5.dup.normal.f.bam --b2 /storage/liuyi/08.stereo_v2/HER2_breast/bam/C03637A5.dup.tumor.f.bam --l1 normal --l2 tumor --exon_s 1 --intron_s 20 -t SE -e /storage/liuyi/08.stereo_v2/HER2_breast/bam/tumor_normal_dup_rmats/sashimi.se.txt -o sashimi_plot_se 

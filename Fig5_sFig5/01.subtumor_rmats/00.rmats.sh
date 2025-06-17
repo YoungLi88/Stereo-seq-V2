@@ -1,0 +1,11 @@
+/home/liuyi/miniconda3/envs/rmats_conda/bin/python ~/02.software/rmats_turbo_v4_3_0/rmats.py \
+    --b1 group1_bam.txt \
+    --b2 group2_bam.txt \
+    --gtf /storage/liuyi/08.stereo_v2/reference/star/human/gencode.v31.chr_patch_hapl_scaff.annotation.gtf\
+    --od /storage/liuyi/08.stereo_v2/HER2_breast/bam/cluster_dup_rmats/out \
+    -t single \
+    --tmp /storage/liuyi/08.stereo_v2/HER2_breast/bam/cluster_dup_rmats/tmp\
+    --nthread 10 \
+    --readLength 75 \
+    --variable-read-length\
+    --allow-clipping
