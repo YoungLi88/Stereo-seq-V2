@@ -1,1 +1,1 @@
-# Stereo-seq-V2
+# Scripts for Stereo-seq-V2
